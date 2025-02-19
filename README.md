@@ -2,10 +2,11 @@
   <img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://github.com/sanket-67.png" width="150" height="150" style="border-radius: 50%;" />
-  <h1 style="margin: 0 auto;">✨ Hey, I'm Sanket Mule!✨</h1>
+  <h1>✨ Hey, I'm Sanket Mule! ✨</h1>
 </div>
+
 
 
 
