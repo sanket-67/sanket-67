@@ -15,26 +15,6 @@
 
 
 ---
-
-## 🚀 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=1000&pause=12000&color=0FF0FC&background=161B22&width=1000&height=50&lines=const+sanket+=+{">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=2000&pause=11000&color=0FF0FC&background=161B22&width=1000&height=50&lines=pronouns:+%22He%22+|+%22Him%22,">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=3000&pause=10000&color=0FF0FC&background=161B22&width=1000&height=50&lines=code:+%5B+%22Javascript%22,+%22TypeScript%22,+%22Java%22,+%22C%22+%5D,">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=4000&pause=9000&color=0FF0FC&background=161B22&width=1000&height=50&lines=technologies:+{">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=5000&pause=8000&color=0FF0FC&background=161B22&width=1000&height=50&lines=backEnd:+{+js:+%5B+%22Node%22,+%22Express%22,+%22GraphQL%22+%5D,">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=6000&pause=7000&color=0FF0FC&background=161B22&width=1000&height=50&lines=python:+%5B+%22Django%22,+%22Flask%22,+%22FastAPI%22+%5D+},">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=7000&pause=6000&color=0FF0FC&background=161B22&width=1000&height=50&lines=devOps:+%5B+%22AWS%22,+%22Docker%22,+%22Kubernetes%22,+%22Jenkins%22+%5D,">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=8000&pause=5000&color=0FF0FC&background=161B22&width=1000&height=50&lines=databases:+%5B+%22MongoDB%22,+%22MySQL%22,+%22PostgreSQL%22,+%22Redis%22+%5D,">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=9000&pause=4000&color=0FF0FC&background=161B22&width=1000&height=50&lines=testing:+%5B+%22Jest%22,+%22Mocha%22+%5D,">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=10000&pause=3000&color=0FF0FC&background=161B22&width=1000&height=50&lines=currentFocus:+%22Building+Scalable+Backend+Systems+%26+Cloud+Infrastructure%22,">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=11000&pause=2000&color=0FF0FC&background=161B22&width=1000&height=50&lines=funFact:+%22Life+is+a+script,+make+it+executable%22">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=12000&pause=1000&color=0FF0FC&background=161B22&width=1000&height=50&lines=};">
-</p>
-
----
-
 ## 🎯 Current Goals
 
 ✅ Mastering backend engineering, DevOps, and security  
@@ -99,3 +79,22 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=120&section=footer"/>
+
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=1000&pause=12000&color=0FF0FC&background=161B22&width=1000&height=50&lines=const+sanket+=+{">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=2000&pause=11000&color=0FF0FC&background=161B22&width=1000&height=50&lines=pronouns:+%22He%22+|+%22Him%22,">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=3000&pause=10000&color=0FF0FC&background=161B22&width=1000&height=50&lines=code:+%5B+%22Javascript%22,+%22TypeScript%22,+%22Java%22,+%22C%22+%5D,">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=4000&pause=9000&color=0FF0FC&background=161B22&width=1000&height=50&lines=technologies:+{">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=5000&pause=8000&color=0FF0FC&background=161B22&width=1000&height=50&lines=backEnd:+{+js:+%5B+%22Node%22,+%22Express%22,+%22GraphQL%22+%5D,">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=6000&pause=7000&color=0FF0FC&background=161B22&width=1000&height=50&lines=python:+%5B+%22Django%22,+%22Flask%22,+%22FastAPI%22+%5D+},">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=7000&pause=6000&color=0FF0FC&background=161B22&width=1000&height=50&lines=devOps:+%5B+%22AWS%22,+%22Docker%22,+%22Kubernetes%22,+%22Jenkins%22+%5D,">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=8000&pause=5000&color=0FF0FC&background=161B22&width=1000&height=50&lines=databases:+%5B+%22MongoDB%22,+%22MySQL%22,+%22PostgreSQL%22,+%22Redis%22+%5D,">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=9000&pause=4000&color=0FF0FC&background=161B22&width=1000&height=50&lines=testing:+%5B+%22Jest%22,+%22Mocha%22+%5D,">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=10000&pause=3000&color=0FF0FC&background=161B22&width=1000&height=50&lines=currentFocus:+%22Building+Scalable+Backend+Systems+%26+Cloud+Infrastructure%22,">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=11000&pause=2000&color=0FF0FC&background=161B22&width=1000&height=50&lines=funFact:+%22Life+is+a+script,+make+it+executable%22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=12000&pause=1000&color=0FF0FC&background=161B22&width=1000&height=50&lines=};">
+</p>
+
+---
